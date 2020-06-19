@@ -6,8 +6,8 @@ addpath('./tools');
 warning off;
 
 % parameter setting
-mask_size = 5;  % 做标记的大小
-T = 1;
+mask_size = 5;  % 脳枚卤锚录脟碌脛麓贸脨隆
+T = 7;
 numTrainPerRegion = 20;
 
 beta1 = 2.5;
